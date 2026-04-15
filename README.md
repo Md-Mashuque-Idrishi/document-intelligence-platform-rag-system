@@ -6,9 +6,9 @@ Ek full-stack **Retrieval-Augmented Generation (RAG)** application jo PDFs ko in
 
 
 ##  Live Demo
-** [Live Application](https://your-vercel-link.vercel.app)** ← Yeh link mandatory daalna
+https://document-intelligence-platform-rag-taupe.vercel.app/
 
-**Backend API**: `https://your-render-backend.onrender.com`
+**Backend API**:  https://document-intelligence-platform-rag-tner.onrender.com
 
 *(Agar live nahi hai toh yaha likh do: "Deploying soon on Vercel + Render")*
 
